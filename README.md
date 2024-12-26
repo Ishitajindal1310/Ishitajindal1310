@@ -63,17 +63,17 @@
 	<!--	</a>-->
 	<!--</p>-->
 	<p>
-		<a href="https://git.io/streak-stats">
+<!-- 		<a href="https://git.io/streak-stats"> -->
 			<img src="https://streak-stats.demolab.com?user=Ishitajindal1310&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 		</a>
 	</p>
 	<p>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- 		<a href="https://github.com/anuraghazra/github-readme-stats"> -->
 			<img src="https://github-readme-stats.vercel.app/api?username=Ishitajindal1310&theme=gruvbox&bg_color=151515&show_icons=true&locale=en" alt="GitHub Stats" />
 		</a>
 	</p>
 	<p>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- 		<a href="https://github.com/anuraghazra/github-readme-stats"> -->
 			<img
 				src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishitajindal1310&exclude_repo=Health-Elevator&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact"
 				alt="Skill Set"
