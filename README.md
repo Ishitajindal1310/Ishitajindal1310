@@ -2,7 +2,7 @@
 <h2 align="justify">Hi there 👋</h2>
 <!-- <img align="right" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" alt="Coder" width="150" /> -->
 <div align="justify">
-	<p>I am Ishita Jindal—a competitive, motivated, and responsible individual. I am a keen learner, always eager to explore more about my areas of interest, learn new things, and build impactful projects that combine functionality with great design. 🚀</p>
+	<p>I am Ishita Jindal - A competitive, motivated, and responsible individual. I am a keen learner, always eager to explore more about my areas of interest, learn new things, and build impactful projects that combine functionality with great design. 🚀</p>
 </div>
 <h2 align="left">🌐 Connect with me</h2>
 <p align="left">
