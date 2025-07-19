@@ -1,8 +1,8 @@
 <!--img src="https://media.licdn.com/dms/image/v2/D5616AQFMcmLllMUWew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725685158450?e=1749081600&v=beta&t=3Ly_zSqDMk3lekkcgqteHidPaqWYufNQsLpDO65zlRo" alt="Header Photo" /-->
-<h2 align="justify">👋 Welcome Note</h2>
+<h2 align="justify">Hi there 👋</h2>
 <!-- <img align="right" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" alt="Coder" width="150" /> -->
 <div align="justify">
-	<p>This is Ishita Jindal. A competitive, motivated and responsible individual, A keen learner who is always interested in learning more and more about her areas of interest.</p>
+	<p>I am Ishita Jindal—a competitive, motivated, and responsible individual. I am a keen learner, always eager to explore more about my areas of interest, learn new things, and build impactful projects that combine functionality with great design. 🚀</p>
 </div>
 <h2 align="left">🌐 Connect with me</h2>
 <p align="left">
